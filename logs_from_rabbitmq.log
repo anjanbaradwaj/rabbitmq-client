@@ -1,0 +1,10 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< org.example:RabbitMQDemo >----------------------
+[INFO] Building RabbitMQDemo 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec-maven-plugin:3.1.0:java (default-cli) @ RabbitMQDemo ---
+ [*] Waiting for messages. To exit press CTRL+C
+ [x] Received 'info : Hello, world!'
+Terminate batch job (Y/N)? 
